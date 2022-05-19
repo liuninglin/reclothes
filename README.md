@@ -20,6 +20,12 @@ ReClothes is a platform that bridges clothes donors, second-hand clothes buyers 
 
 ![business process](./assets/business_process.png)
 
+## Online Tools I Used
+
+- [Whimsical](https://whimsical.com/)
+- [Lucidchart](https://lucidchart.com)
+- [Cloudcraft](https://cloudcraft.co)
+
 ## Business Architecture
 
 ![business arch](./assets/business_arch.png)
