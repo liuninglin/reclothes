@@ -1,9 +1,16 @@
-# ReClothes
 
-![logo](./assets/ReClothes-logo-no-background.png)
+<p align="center">
+  <img src="./assets/ReClothes-logo-no-background.png">
+</p>
 
 This repository contains all deliverables for [Student IT Architecture Competition 2022](https://www.citap.org/) that started from Dec 2021 to May 2022. 
 Thank you to the SITAC organization and my teammate Ruoran Wang. Through this five-month competition we design our business solution from scratch and created associated tech solution to address pain points.
+
+## What I learned
+- Steps for designing a system from the scratch
+- Pay more attention to the security of the system
+- Some great tools for designing and managing ideas
+
 
 ## What is ReClothes
 
